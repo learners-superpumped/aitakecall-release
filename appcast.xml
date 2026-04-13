@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ClawOps</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 13 Apr 2026 16:36:54 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/learners-superpumped/aitakecall-release/main/ClawOps.dmg" length="8810796" type="application/octet-stream" sparkle:edSignature="B4+kCMR3hytR676exT75Brf1bPkIW5gsWLIeKwX34wFw2H/FfYdfOsNx4M2omvCDwZu8AKm9JQjD5ri2GH3kBg=="/>
+        </item>
+    </channel>
+</rss>
