@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/learners-superpumped/aitakecall-release/main/ClawOps.dmg" length="8810796" type="application/octet-stream" sparkle:edSignature="B4+kCMR3hytR676exT75Brf1bPkIW5gsWLIeKwX34wFw2H/FfYdfOsNx4M2omvCDwZu8AKm9JQjD5ri2GH3kBg=="/>
+            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.0.0/ClawOps.dmg" length="8810796" type="application/octet-stream" sparkle:edSignature="B4+kCMR3hytR676exT75Brf1bPkIW5gsWLIeKwX34wFw2H/FfYdfOsNx4M2omvCDwZu8AKm9JQjD5ri2GH3kBg=="/>
         </item>
     </channel>
 </rss>
