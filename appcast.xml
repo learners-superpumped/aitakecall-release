@@ -3,12 +3,12 @@
     <channel>
         <title>ClawOps</title>
         <item>
-            <title>1.1.6</title>
-            <pubDate>Wed, 15 Apr 2026 09:32:39 +0000</pubDate>
-            <sparkle:version>10106</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Thu, 16 Apr 2026 10:47:49 +0000</pubDate>
+            <sparkle:version>10200</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.1.6/ClawOps.dmg" length="20003722" type="application/octet-stream" sparkle:edSignature="hiKTawBeU4sCpIPuQFpJv7FEnTM+pf4U0HpjoeMGkw3dyUTOLUGKUmRWBtJYur+lscS9dB7YAd6ZlCTD/y+4CQ=="/>
+            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.2.0/ClawOps.dmg" length="22193236" type="application/octet-stream" sparkle:edSignature="LmDd9JWC1Oa3znjf6r+A4V0sIuwTmW+iCjTRm2CwUdi5sd0KqxCIcmU1aPfuBfsuXK5pdv6pWJGBWG1oivw7AA=="/>
         </item>
         <item>
             <title>1.0.3</title>
