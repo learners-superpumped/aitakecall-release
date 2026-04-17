@@ -1,30 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ClawOps</title>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Thu, 16 Apr 2026 10:47:49 +0000</pubDate>
-            <sparkle:version>10200</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.2.0/ClawOps.dmg" length="22193236" type="application/octet-stream" sparkle:edSignature="LmDd9JWC1Oa3znjf6r+A4V0sIuwTmW+iCjTRm2CwUdi5sd0KqxCIcmU1aPfuBfsuXK5pdv6pWJGBWG1oivw7AA=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 14 Apr 2026 08:46:31 +0000</pubDate>
-            <sparkle:version>10003</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.0.3/ClawOps.dmg" length="9174843" type="application/octet-stream" sparkle:edSignature="SLR/cDOQhIymAgL2JV8hAKoH5ZjvKnuwGu6YXmj5unG/c4Fc2lHn8DdNnwiJQBagYd2lBQ1EAdPZFK+nxAXhBw=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 13 Apr 2026 19:26:49 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v1.0.1/ClawOps.dmg" length="8931174" type="application/octet-stream" sparkle:edSignature="wfZkG8V2b0omO6aU7C4OU8fuEUR2bYlx1I/ilBdIlEK1hto6P0SSdtbF5DIweVrDYTb+IMYhZ23tHT6T3VzuCg=="/>
-        </item>
+        <title>AI Take Call</title>
     </channel>
 </rss>

@@ -1,4 +1,4 @@
-# ClawOps Releases
+# AI Take Call Releases
 
 자동 업데이트 피드 및 배포 파일을 관리하는 저장소입니다.
 

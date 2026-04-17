@@ -1,4 +1,4 @@
 {
-  "minimumVersion": "10107",
-  "enabled": true
+  "minimumVersion": "10000",
+  "enabled": false
 }
