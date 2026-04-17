@@ -19,7 +19,7 @@ For the full product tour, visit **[aitakecall.com](https://aitakecall.com)**.
 
 ## Requirements
 
-- macOS 13 Ventura or later
+- macOS 26 Tahoe or later
 - An iPhone signed in with the same Apple ID
 - An API key from OpenAI, Google (Gemini), or ElevenLabs
 
