@@ -1,0 +1,43 @@
+name: Feature request
+description: Suggest an idea or improvement for AI Take Call.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea. The more context you give about the underlying use case, the better we can evaluate it.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the situation or use case that motivated this request.
+      placeholder: When I'm on a call with a client, I'd like to ...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: How do you imagine AI Take Call handling this?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Workarounds you've tried
+      description: Existing features, other tools, or manual workflows you're using today.
+    validations:
+      required: false
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Relevant AI provider (if any)
+      multiple: true
+      options:
+        - OpenAI Realtime
+        - Google Gemini
+        - ElevenLabs
+        - Not provider-specific
+    validations:
+      required: false

@@ -1,0 +1,89 @@
+name: Bug report
+description: Report something that's broken or behaving unexpectedly.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug report.
+
+        > **Before you submit:**
+        > - Do **not** paste API keys, call recordings, or personal transcripts.
+        > - Redact phone numbers, names, and secrets from any logs you attach.
+        > - For **security issues**, don't file a public issue — see the security notice at the bottom of this form.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear and concise description of the bug.
+      placeholder: When I do X, Y happens instead of Z.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Exact steps someone else could follow to see the same issue.
+      placeholder: |
+        1. Open AI Take Call
+        2. Make an outbound call to ...
+        3. See error ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: AI Take Call version
+      description: Shown in the app's About window or menu bar.
+      placeholder: e.g. 1.2.0
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: e.g. macOS 15.1 (Sequoia)
+    validations:
+      required: true
+  - type: input
+    id: iphone-model
+    attributes:
+      label: iPhone model & iOS version
+      placeholder: e.g. iPhone 15 Pro, iOS 18.1
+    validations:
+      required: false
+  - type: dropdown
+    id: provider
+    attributes:
+      label: AI provider in use
+      multiple: true
+      options:
+        - OpenAI Realtime
+        - Google Gemini
+        - ElevenLabs
+        - Not applicable
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots (optional)
+      description: |
+        Attach logs or screenshots that help reproduce the issue.
+        Reminder: redact any API keys, phone numbers, or personal info first.
+      render: shell
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **Security issues:** please do not open a public issue. Reach out privately through a channel listed on [aitakecall.com](https://aitakecall.com) instead.

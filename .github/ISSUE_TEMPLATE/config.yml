@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AI Take Call homepage
+    url: https://aitakecall.com
+    about: Product information, download links, and documentation.
+  - name: Security disclosure
+    url: https://aitakecall.com
+    about: Please do not file public issues for security vulnerabilities. Contact us privately through a channel listed on the homepage.
