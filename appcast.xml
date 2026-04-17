@@ -8,7 +8,7 @@
             <sparkle:version>20001</sparkle:version>
             <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v2.0.1/AITakeCall.dmg" length="22218940" type="application/octet-stream" sparkle:edSignature="6shT5ss8soxK4kGwpX6twvpv201Ws5SmNFX5/UNIw/NxjBVLX1p7VXgYEb9yVFVwZ2HNwNv34ToFLi7o+QXwCw=="/>
+            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v2.0.1/AITakeCall.dmg" length="22292964" type="application/octet-stream" sparkle:edSignature="nmzVYEeE4axacepxUe9C3IeIMAr1DJz7Uh/VpvtD/7FzjqByFqWsTVsxRhLbmJz/xDhQLamhF1lwJwAII/FMDw=="/>
         </item>
         <item>
             <title>2.0.0</title>
