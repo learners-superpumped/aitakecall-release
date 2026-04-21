@@ -3,6 +3,14 @@
     <channel>
         <title>AI Take Call</title>
         <item>
+            <title>2.0.2</title>
+            <pubDate>Tue, 21 Apr 2026 02:39:12 +0000</pubDate>
+            <sparkle:version>20002</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/learners-superpumped/aitakecall-release/releases/download/v2.0.2/AITakeCall.dmg" length="22283571" type="application/octet-stream" sparkle:edSignature="hdkM7nZrXIkE/gUuJLIj2Ndnv5KwTVDASDsBqdkLtls7EJY7TqLx+umkilOtboU1xnhO027Rtdnq/kL/uxF9Ag=="/>
+        </item>
+        <item>
             <title>2.0.1</title>
             <pubDate>Fri, 17 Apr 2026 06:25:42 +0000</pubDate>
             <sparkle:version>20001</sparkle:version>
